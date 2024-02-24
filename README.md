@@ -9,12 +9,12 @@ A Computer Engineering graduate from Polytechnic University of the Philippines, 
 ## Projects
 
 Arduino Water Quality Parameter Assessment with Artificial Intelligence:
-• Technology implemented using Python, PLX DAQ, Jupyter, and Pandas.
-• Hardware components include Arduino Uno, Raspberry Pi.
-• Sensors: temperature, turbidity, pH, and total dissolved solids.
-• Low-cost, real-time water quality monitoring system for various applications.
-• Prototype measures water quality and stores results in a database.
-• Potential cost-effective solution for monitoring water quality in various settings.
+- Technology implemented using Python, PLX DAQ, Jupyter, and Pandas.
+- Hardware components include Arduino Uno, Raspberry Pi.
+- Sensors: temperature, turbidity, pH, and total dissolved solids.
+- Low-cost, real-time water quality monitoring system for various applications.
+- Prototype measures water quality and stores results in a database.
+- Potential cost-effective solution for monitoring water quality in various settings.
 
 ## Skills
 
