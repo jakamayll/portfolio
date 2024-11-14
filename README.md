@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 
 ## About Me
 
-Jim is a Cloud Engineer with expertise in Azure and DevOps, focusing on CI/CD pipelines and cloud automation. He holds 5 Microsoft Azure certifications and stays current with cloud technologies.
+Jim is a Cloud Engineer with expertise in Azure and DevOps, focusing on CI/CD pipelines and cloud automation. He holds 6 Microsoft Azure certifications and stays current with cloud technologies.
 
 ## Skills
 
@@ -23,8 +23,9 @@ Microsoft Azure, AWS, Azure DevOps (CI/CD), Terraform, Infrastructure as Code, A
 
 ## License
 
-5x Azure Certified: AZ-305 | AZ-104 | AZ-900 | SC-900 | DP-900 | AWS - CLF-C02
+5x Azure Certified: AZ-400 | AZ-305 | AZ-104 | AZ-900 | SC-900 | DP-900 | AWS - CLF-C02
 
+- Microsoft Certified: DevOps Engineer Expert |  https://learn.microsoft.com/en-us/users/jimuelsimouneligio0216/credentials/4633541946399435
 - Microsoft Certified: Azure Solutions Architect Expert | https://learn.microsoft.com/en-us/users/jimuelsimounleligio-2432/credentials/f57a26708fde9832
 - Microsoft Certified: Azure Administrator Associate | https://learn.microsoft.com/en-us/users/jimuelsimounleligio-2432/credentials/b04e494d31bc4d50
 - Microsoft Certified: Azure Fundamentals | https://learn.microsoft.com/en-us/users/jimuelsimounleligio-2432/credentials/eb22e16e2c3dedf7
